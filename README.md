@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuietseong&count_bg=%23EBBE41&title_bg=%231C3F70&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+<br>
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=1C3F70&text=Quietseong's%20Git&section=header&reversal=false&fontColor=ebbe41&fontAlign=50&textBg=false&rotate=-4&fontSize=65&desc=Plays%20with%20data!&descSize=14&descAlignY=65&descAlign=49&" />
 </div>
