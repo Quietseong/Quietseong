@@ -46,9 +46,10 @@
 <div align=center>
 <details>
 <summary>
-	<b>Portfolio</b>
+	<h3>:card_file_box:Portfolio(Click)</h3>
 </summary>
-[Capstone](https://github.com/Quietseong/Portfolio/blob/main/Dacon/2312_Capstone/RF_RFM-KMEANS.ipynb)
+<h5>:rocket:<a href="https://github.com/Quietseong/Portfolio/blob/main/Dacon/2312_Capstone/RF_RFM-KMEANS.ipynb">Capstone</a></h5>
+<h5>:rocket:<a href="https://github.com/Quietseong/Portfolio/blob/main/Dacon/2402_RFM/process_1.ipynb">Dacon</a></h5>
 </details>
 </div>
 <br>
