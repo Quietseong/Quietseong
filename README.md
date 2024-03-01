@@ -4,13 +4,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuietseong&count_bg=%23EBBE41&title_bg=%231C3F70&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 <br>
 <br>
-</div>
-
 ### Data Scientist, Data Analyst
 - (20.11 - 22.11) KERIS, AI빅데이터부 연구원
 - (22.03 - 24.02) KNU 데이터사이언스대학원 석사 졸업
 
- <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
