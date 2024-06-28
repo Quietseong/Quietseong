@@ -6,7 +6,7 @@
 
 기간|경력|
 :---:|:---:|
-***20.11 - 22.11***|<img src="Images/keris.png" alt="KERIS" width="30" height="15">**KERIS**, `AI·Big Data Section(Education Data Center), `Researcher``|
+***20.11 - 22.11***|<img src="Images/keris.png" alt="KERIS" width="30" height="15">**KERIS**, `AI·Big Data Section(Education Data Center), Researcher`|
 ***22.03 - 24.02***|<img src="Images/knu.jpg" alt="KNU" width="15" height="15">**KNU**, `MSDS(Master's in Data Science)`|
 <br>
 
