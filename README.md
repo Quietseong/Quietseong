@@ -37,7 +37,7 @@
 <summary>
 	<h3>:card_file_box:Portfolio(Click)</h3>
 </summary>
-<h5>:rocket:<a href="https://github.com/Quietseong/Portfolio/blob/main/Dacon/2312_Capstone/PPT_231211.pptx">Capstone</a></h5>
+<h5>:rocket:<a href="Dacon/2312_Capstone/예술의전당_수익제고방안(Prediction with RF, Clustering, RFM).pdf">Capstone</a></h5>
 </details>
 </div>
 <br>
