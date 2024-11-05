@@ -43,7 +43,7 @@
 <br>
 <div align=center>
 <details>
-<summary><h3>🏆 Baekjoon solved rank 🏆(Click)</h3></summary>
-<a href="https://solved.ac/jys135"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys135" alt="Solved.ac Profile">
+<summary><h3>🏆 Baekjoon solved<a href="https://github.com/Quietseong/programmers"> 🏆(Click)</h3></summary>
+<!-- <a href="https://solved.ac/jys135"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys135" alt="Solved.ac Profile"> -->
 </div>
 </details>
