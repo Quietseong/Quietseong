@@ -43,7 +43,7 @@
 <br>
 <div align=center>
 <details>
-<summary><h3>🏆<a href="https://github.com/Quietseong/programmers"> Baekjoon solved🏆<Click></h3></summary>
+<summary><h3><a href="https://github.com/Quietseong/programmers"> Programmers&Baekjoon solved<Click></h3></summary>
 <!-- <a href="https://solved.ac/jys135"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys135" alt="Solved.ac Profile"> -->
 </div>
 </details>
